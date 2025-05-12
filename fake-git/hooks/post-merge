@@ -1,3 +1,3 @@
 #!/bin/sh
 echo "💥 ¡Hook post-merge ejecutado!"
-touch /tmp/hacked-by-cve-2024-10220
+touch /tmp/hacked-By-Pildoras-Jose-Lorenzo
